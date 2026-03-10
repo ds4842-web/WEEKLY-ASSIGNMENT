@@ -1,3 +1,4 @@
+//Code to find number of digits in a given number
 import java.util.Scanner;
 public class w3_4lvl3_6 {
     public static void main(String[] args){
